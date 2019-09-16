@@ -1,7 +1,13 @@
-title: C++ Project
+title: Les variables
 plan:
-- title: Welcome
-  statement: markdowns/welcome.md
+- title: Exercice 1
+  statement: markdowns/variable1.md
+- title: Exercice 2
+  statement: markdowns/variable2.md
+- title: Exercice 3
+  statement: markdowns/variable3.md
+- title: Exercice 4
+  statement: markdowns/variable4.md
 projects:
   cpp:
     root: /cpp-project
