@@ -7,7 +7,7 @@ x = (longitudeB - longitudeA) \times \cos \left(\frac{latitudeA + latitudeB}{2} 
 ```
 
 ```math
-y = latitudeB - latitudeB
+y = latitudeB - latitudeA
 ```
 
 ```math
